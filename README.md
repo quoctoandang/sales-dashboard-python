@@ -1,10 +1,10 @@
-# 📊 Phân Tích Dữ Liệu Doanh Số Bán Hàng - AVA SPORT
+# 📊 Sales Dashboard Python
+
+> Phân tích dữ liệu doanh số bán hàng & Dashboard tương tác với Python
 
 ## 📋 Giới Thiệu
 
 Dự án phân tích dữ liệu doanh số bán hàng giày dép của cửa hàng **AVA SPORT** (thuộc tập đoàn Mobile World Investment Corporation - MWG) trong giai đoạn từ **02/06/2022 đến 04/06/2022**.
-
-**Thành viên:** Nhóm 3
 
 ## 🎯 Mục Tiêu Dự Án
 
@@ -24,7 +24,7 @@ Phân tích và trực quan hóa dữ liệu bán hàng để trả lời các c
 ## 📁 Cấu Trúc Dự Án
 
 ```
-DataAnalyst_Project/
+sales-dashboard-python/
 ├── Nhom3.ipynb          # Jupyter Notebook chính chứa phân tích
 ├── assets/
 │   └── reset.css        # CSS cho Dashboard
